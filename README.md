@@ -1,24 +1,18 @@
 # Vagrant::Uml
 
-TODO: Write a gem description
+Usermode Linux provider for Vagrant
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'vagrant-uml'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install vagrant-uml
+    vagrant plugin install https://github.com/centralway/vagrant-uml
 
 ## Usage
 
-TODO: Write usage instructions here
+    vagrant up --provider uml
+
+## Build from sources
+
+   rake build
 
 ## Contributing
 
