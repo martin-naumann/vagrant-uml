@@ -12,7 +12,7 @@ Usermode Linux provider for Vagrant
 
 ## Build from sources
 
-   rake build
+    rake build
 
 ## Contributing
 
